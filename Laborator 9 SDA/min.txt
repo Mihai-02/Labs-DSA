@@ -1,0 +1,15 @@
+Distanta minima: 1 km
+Statii:
+Radaia h - Mera
+Maneciu - Gheaba 2
+Maneciu Pamanteni hc - Izvoarele hc
+Faget Teleajen - Magurele Prahova N. hc
+Vatra Dornei - Vatra Dornei Bai h
+Vatra Dornei Bai h - Vatra Dornei
+Livadia hc - Ponor hc
+Bacia Hm - Bacia hc
+Bucuresti Basarab - Bucuresti Basarab h
+Bucuresti Basarab h - Carpati h
+Oradea Est Triaj h - Oradea Est
+Radauti Gara Mica h - Radauti
+Craiova - Bordei hc

@@ -1,0 +1,3 @@
+Distanta maxima: 225 km
+Statii:
+Constanta - Bucuresti Nord

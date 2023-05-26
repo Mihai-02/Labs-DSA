@@ -1,0 +1,519 @@
+Craiova - Bordei hc; Cost:1
+Oradea Est - Oradea Est Triaj h; Cost:1
+Radaia h - Mera; Cost:1
+Maneciu - Gheaba 2; Cost:1
+Maneciu Pamanteni hc - Izvoarele hc; Cost:1
+Faget Teleajen - Magurele Prahova N. hc; Cost:1
+Vatra Dornei - Vatra Dornei Bai h; Cost:1
+Livadia hc - Ponor hc; Cost:1
+Bacia Hm - Bacia hc; Cost:1
+Bucuresti Basarab - Bucuresti Basarab h; Cost:1
+Bucuresti Basarab h - Carpati h; Cost:1
+Radauti Gara Mica h - Radauti; Cost:1
+Bucuresti Nord - Bucuresti Basarab h; Cost:2
+Alesd - Alesd hc; Cost:2
+Vadu Crisului - Vadu Crisului hc; Cost:2
+Bratca - Balnaca hc; Cost:2
+Stana de Vale hc - Bulz; Cost:2
+Negreni h - Ciucea; Cost:2
+Aghires - Doroltu hc; Cost:2
+Radaia h - Suceag hc; Cost:2
+Mera - Nadasel hc; Cost:2
+Doroltu hc - Macau hc; Cost:2
+Gheaba 2 - Maneciu Pamanteni hc; Cost:2
+Valenii de Munte - PO Gura Vitioarei; Cost:2
+Magurele Prahova - Magurele Sud hc; Cost:2
+Lipanesti hc - Boldesti hc; Cost:2
+Boldesti hc - Scaeni; Cost:2
+Calimanesti - Pausa h; Cost:2
+Sinaia - Sinaia Sud hc; Cost:2
+Lesu Ilvei Hm - Stramba h; Cost:2
+Podereia Feldrului h. - Feldru Hm; Cost:2
+Nasaud - Nasaud H; Cost:2
+Nimigea - Nimigea hc; Cost:2
+Mogoseni Hm - Cociu hc; Cost:2
+Caila hc - Sfantu hc; Cost:2
+Magherus Sieu - Arcalia hc; Cost:2
+Galaseni hc - Stana Hm; Cost:2
+Sibiu - Sibiu hc; Cost:2
+Zarnesti - Zarnesti hc; Cost:2
+Zarnesti hc - Tohanu Vechi Hm; Cost:2
+Rasnov hc - Rasnov; Cost:2
+Dej Calatori - Dej; Cost:2
+Ileanda - Bizusa hc; Cost:2
+Iasi - Nicolina; Cost:2
+Corlateni hc - Carasa hc; Cost:2
+Sibiu hc - Turnisor; Cost:2
+Saliste - Aciliu hc; Cost:2
+Sebes Alba - Sebes Glod hc; Cost:2
+Santimbru - Santimbru hc; Cost:2
+Ocna Sibiului - Baile Ocna Sibiului hc; Cost:2
+Mandra h - Loamnes Hm; Cost:2
+Seica Mare hc - Seica Mare; Cost:2
+Baru Mare hc - Baru Mare; Cost:2
+Rusor hc - Baesti; Cost:2
+Baesti - Ohaba de Sub Piatra hc; Cost:2
+Ohaba de Sub Piatra hc - Ciopea h; Cost:2
+Covragiu h - Plopi h; Cost:2
+Plopi h - Bretea Streiului; Cost:2
+Maceu hc - Rusi hc; Cost:2
+Calan Bai - Batiz hc; Cost:2
+Batiz hc - Bacia Hm; Cost:2
+Depoul Buc. Triaj h - Chitila; Cost:2
+Depoul Buc. Triaj h - Pajura Hm; Cost:2
+Pajura Hm - Carpati h; Cost:2
+Sabolciu hc - Sacadat Hm; Cost:2
+Apahida - Dezmir hc; Cost:2
+Bontida - Rascruci hc; Cost:2
+Jucu - Jucu de Jos hc; Cost:2
+Cricov - Muru hc; Cost:2
+Plaiesu hc - Sfantu Mina; Cost:2
+Vicovu de Jos hc - Vicovu de Sus hc; Cost:2
+Gura Putnei - Putna Troita h; Cost:2
+Putna Troita h - Putna Centru h; Cost:2
+Putna Centru h - Putna; Cost:2
+Recolta hc - Perisoru; Cost:2
+Islaz - Branesti; Cost:2
+Branesti - Branesti Sat hc; Cost:2
+Craiova - Craiova Triaj hc; Cost:3
+Alesd - Tetchea hc; Cost:3
+Valea Draganului hc - Poieni; Cost:3
+Poieni - Bologa hc; Cost:3
+Bologa hc - Braisoru; Cost:3
+Aghires hc - Aghires; Cost:3
+Homoriciu Hm - Teisani; Cost:3
+Valeni Nord - Valenii de Munte; Cost:3
+PO Gura Vitioarei - Faget Teleajen; Cost:3
+Magurele Prahova N. hc - Magurele Prahova; Cost:3
+Ploiesti Nord - Ploiesti E. P. 1 h; Cost:3
+Ploiesti E. P. 1 h - Ploiesti Sud; Cost:3
+Ploiesti Vest - Ploiesti Triaj hc; Cost:3
+Breaza hc - Nistoresti hc; Cost:3
+Comarnic - Breaza Nord; Cost:3
+Busteni - Poiana Tapului hc; Cost:3
+Brasov - Bartolomeu; Cost:3
+Stramba h - Ilva Mica; Cost:3
+Ilva Mica - Podereia Feldrului h.; Cost:3
+Salva - Mititei hc; Cost:3
+Sinaia Sud hc - Valea Larga Hm; Cost:3
+Galgau - Galgau h; Cost:3
+Jibou - Var hc; Cost:3
+Suceava - Suceava Nord; Cost:3
+Salonta - Madaras Bihor hc; Cost:3
+Copsa Mica - Axente Sever h; Cost:3
+Simeria - Simeria Triaj; Cost:3
+Petrosani - Petrosani Triaj h; Cost:3
+Subcetate - Covragiu h; Cost:3
+Calan - Calan Bai; Cost:3
+Orlat - Sibiel hc; Cost:3
+Sibiel hc - Sacelu Sibiului hc; Cost:3
+Apoldu de Jos hc - Miercurea Sibiu; Cost:3
+Baile Miercurea hc - Cunta; Cost:3
+Cut hc - Rahau hc; Cost:3
+Petrosani Triaj h - Pestera Bolii h.; Cost:3
+Crivadia - Baru Mare hc; Cost:3
+Baru Mare - Livadia hc; Cost:3
+Ponor hc - Pui; Cost:3
+Bretea Streiului - Maceu hc; Cost:3
+Bacia hc - Simeria Triaj; Cost:3
+Nistoresti hc - Breaza Nord; Cost:3
+Utvinis hc - Zimandu Nou hc; Cost:3
+Utvinis hc - Utvinisu Nou Hm; Cost:3
+Apahida - Apahida h; Cost:3
+Bontida - Fundatura hc; Cost:3
+Caseiu Hm - Coplean hc; Cost:3
+Cuciulat - Babuteni; Cost:3
+Jucu de Jos hc - Rascruci hc; Cost:3
+Domnesti pe Sieu hc - Mariselu; Cost:3
+Poptelec hc - Cuceu Salaj hc; Cost:3
+Galanesti - Vicov h; Cost:3
+Vicov h - Vicovu de Jos hc; Cost:3
+Vicovu de Sus hc - Bivolaria hc; Cost:3
+Bivolaria hc - Gura Putnei; Cost:3
+Murfatlar hc - Basarabi; Cost:3
+Dorobantu - Castelu hc; Cost:3
+Ovidiu - Ramificatia Borcea; Cost:3
+Perisoru - Ogoarele hc; Cost:3
+Dragos Voda - Bogdana h; Cost:3
+Dor Marunt - Dor Marunt Sat h; Cost:3
+Oradea - Oradea Est; Cost:4
+Suncuius - Balnaca hc; Cost:4
+Bratca - Stana de Vale hc; Cost:4
+Piatra Craiului - Lacu Crisului h; Cost:4
+Piatra Craiului - Bulz; Cost:4
+Lacu Crisului h - Negreni h; Cost:4
+Ciucea - Valea Draganului hc; Cost:4
+Garbau - Macau hc; Cost:4
+Izvoarele hc - Homoriciu Hm; Cost:4
+Teisani - Valeni Nord; Cost:4
+Magurele Sud hc - Lipanesti hc; Cost:4
+Scaeni - Blejoi; Cost:4
+Blejoi - Ploiesti Nord; Cost:4
+Ploiesti Sud - Ploiesti Est; Cost:4
+Buftea - Darza hc; Cost:4
+Crivina - Scrovistea hc; Cost:4
+Busteni - Azuga; Cost:4
+Magura Ilvei - Poiana Ilvei; Cost:4
+Nasaud H - Salva; Cost:4
+Mititei hc - Nimigea; Cost:4
+Nimigea hc - Mogoseni Hm; Cost:4
+Sintereag - Caila hc; Cost:4
+Arcalia hc - Saratel; Cost:4
+Constanta - Palas; Cost:4
+Podu Olt - Talmaciu; Cost:4
+Rasnov - Cristian; Cost:4
+Deda - Morareni hc; Cost:4
+Catcau - Coplean hc; Cost:4
+Iacobenii Vechi hc - Soldana; Cost:4
+Soldana - Andrieseni hc; Cost:4
+Andrieseni hc - Rediu; Cost:4
+Rediu - Rauseni hc; Cost:4
+Vorniceni - Mateieni hc; Cost:4
+Pascani - Topile hc; Cost:4
+Campulung Est - Campulung Moldovenesc; Cost:4
+Santana - Comlaus hc; Cost:4
+Ciumeghiu - Boiu Bihor hc; Cost:4
+Teius - Coslariu; Cost:4
+Razboieni - Unirea hc; Cost:4
+Alba Iulia - Barabant; Cost:4
+Subcetate - Ciopea h; Cost:4
+Calan - Rusi hc; Cost:4
+Sacelu Sibiului hc - Saliste; Cost:4
+Santimbru hc - Coslariu; Cost:4
+Loamnes Hm - Hasag hc; Cost:4
+Hasag hc - Veseud h; Cost:4
+Veseud h - Seica Mare hc; Cost:4
+Seica Mare - Agarbiciu hc; Cost:4
+Agarbiciu hc - Axente Sever h; Cost:4
+Chitila - Bucuresti Triaj hc; Cost:4
+Tetchea hc - Telechiu Hm; Cost:4
+Iclod - Fundatura hc; Cost:4
+Iclod - Livada Somes hc; Cost:4
+Rus hc - Glodu Somesului; Cost:4
+Babuteni - Ciocmani hc; Cost:4
+Ciocmani hc - Surduc Salaj; Cost:4
+Surduc Salaj - Var hc; Cost:4
+Cluj Napoca Est - Dezmir hc; Cost:4
+Galgau h - Glodu Somesului; Cost:4
+Mariselu - Barla pe  Sieu hc; Cost:4
+Rapa de Jos Hm - Morareni hc; Cost:4
+Poptelec hc - Mirsid; Cost:4
+Ulmeni - Clondiru; Cost:4
+Muru hc - Valea Calugareasca; Cost:4
+Cristesti Pascani hc - Timisesti; Cost:4
+Valu lui Traian - Murfatlar hc; Cost:4
+Poarta Alba hc - Dorobantu; Cost:4
+Stefan cel Mare hc - Jegalia; Cost:4
+Jegalia - Recolta hc; Cost:4
+Tulcea Marfuri - Tulcea Oras; Cost:4
+Vartoapele hc - Radoiesti Hm; Cost:5
+Osorhei - Oradea Est Triaj h; Cost:5
+Tileagd - Telechiu Hm; Cost:5
+Tileagd - Sabolciu hc; Cost:5
+Vadu Crisului - Butan Hm; Cost:5
+Suncuius - Vadu Crisului hc; Cost:5
+Cluj Napoca - Baciu Triaj; Cost:5
+Crivina - Prahova; Cost:5
+Campina - Breaza hc; Cost:5
+Campina - Bobolia h; Cost:5
+Comarnic - Posada hc; Cost:5
+Sinaia - Poiana Tapului hc; Cost:5
+Feldru Hm - Nepos hc; Cost:5
+Nepos hc - Rebrisoara; Cost:5
+Rebrisoara - Nasaud; Cost:5
+Sfantu hc - Magherus Sieu; Cost:5
+Medgidia - Castelu hc; Cost:5
+Cernavoda Pod - Dunarea Hm; Cost:5
+Fetesti - Ramificatia Borcea; Cost:5
+Lehliu - Dor Marunt Sat h; Cost:5
+Peris - Scrovistea hc; Cost:5
+Brazi - Ploiesti Triaj hc; Cost:5
+Darste - Timisu de Jos hc; Cost:5
+Tohanu Vechi Hm - Rasnov hc; Cost:5
+Catcau - Capalna pe Somes hc; Cost:5
+Galgau - Capalna pe Somes hc; Cost:5
+Ileanda - Rus hc; Cost:5
+Rastoci - Bizusa hc; Cost:5
+Letca - Cuciulat; Cost:5
+Jibou - Cuceu Salaj hc; Cost:5
+Timisu de Sus Hm - Timisu de Jos hc; Cost:5
+Potingeni hc - Larga Jijia; Cost:5
+Vladeni - Iacobenii Vechi hc; Cost:5
+Jijia hc - Zlatunoaia; Cost:5
+Trusesti - Buhaceni hc; Cost:5
+Dangeni - Dangeni Nord hc; Cost:5
+Ungureni - Mandresti hc; Cost:5
+Mateieni hc - Corlateni hc; Cost:5
+Chisineu Cris - Nadab; Cost:5
+Mediesu Aurit - Apa; Cost:5
+Medias - Tarnava hc; Cost:5
+Valea Larga Hm - Posada hc; Cost:5
+Sag Hm - Valea Viilor Hm; Cost:5
+Cristian Sibiu - Orlat; Cost:5
+Miercurea Sibiu - Baile Miercurea hc; Cost:5
+Cunta - Cut hc; Cost:5
+Barabant - Santimbru; Cost:5
+Merisor - Crivadia; Cost:5
+Pui - Rusor hc; Cost:5
+Butan Hm - Alesd hc; Cost:5
+Tamasda - Boiu Bihor hc; Cost:5
+Cefa - Gepiu hc; Cost:5
+Barla pe  Sieu hc - Sieu; Cost:5
+Sieu - Sieut hc; Cost:5
+Baile Sarata Monteoru hc - Ulmeni; Cost:5
+Inotesti - Tomsani hc; Cost:5
+Tomsani hc - Cricov; Cost:5
+Sfantu Mina - Targu Neamt; Cost:5
+Radauti - Horodnic hc; Cost:5
+Basarabi - Poarta Alba hc; Cost:5
+Baraganu - Stefan cel Mare hc; Cost:5
+Branesti Sat hc - Pasarea; Cost:5
+Olteni - Vartoapele hc; Cost:6
+Arad - Aradu Nou; Cost:6
+Oradea - Oradea Vest; Cost:6
+Oradea - Episcopia Bihor; Cost:6
+Osorhei - Sacadat Hm; Cost:6
+Aghires hc - Galaseni hc; Cost:6
+Garbau - Nadasel hc; Cost:6
+Cluj Napoca - Cluj Napoca Est; Cost:6
+Baciu Triaj - Radaia h; Cost:6
+Brasov - Darste; Cost:6
+Saratel - Domnesti pe Sieu hc; Cost:6
+Cernavoda Pod - Saligny Gr. Est; Cost:6
+Fundulea - Mostistea hc; Cost:6
+Dej Calatori - Caseiu Hm; Cost:6
+Dej Calatori - Nima hc; Cost:6
+Ulmeni Salaj - Miresu Mare hm; Cost:6
+Rauseni hc - Todireni; Cost:6
+Buhaceni hc - Dangeni; Cost:6
+Campulung Moldovenesc - Pojorata; Cost:6
+Mestecanis - Iacobeni; Cost:6
+Aradu Nou - Valea Viilor Hm; Cost:6
+Copsa Mica - Tarnava hc; Cost:6
+Gherla - Livada Somes hc; Cost:6
+Vintu de Jos - Sebes Glod hc; Cost:6
+Banita - Pestera Bolii h.; Cost:6
+Banita - Merisor; Cost:6
+Vinga - Ortisoara; Cost:6
+Apoldu de Sus - Apoldu de Jos hc; Cost:6
+Rahau hc - Sebes Alba; Cost:6
+Baile Ocna Sibiului hc - Mandra h; Cost:6
+Ronat Triaj Gr. D - Sinandrei; Cost:6
+Baile Calacea - Ortisoara; Cost:6
+Apahida h - Jucu; Cost:6
+Sieut hc - Monor Gledin; Cost:6
+Timisesti - Plaiesu hc; Cost:6
+Milisauti - Tibeni hc; Cost:6
+Tibeni hc - Dornesti; Cost:6
+Ivanesti hc - Dragos Voda; Cost:6
+Sarulesti - Mostistea hc; Cost:6
+Pasarea - Pantelimon; Cost:6
+Baia Dobrogea - Ceamurlia de Jos Hm; Cost:6
+Bucuresti Nord - Bucuresti Baneasa; Cost:7
+Galateni - Olteni; Cost:7
+Atirnati - Rosiori Nord; Cost:7
+Timisoara Nord - Ronat Triaj Gr. D; Cost:7
+Arad - Utvinisu Nou Hm; Cost:7
+Draganesti Olt - Stoenesti; Cost:7
+Ploiesti Vest - Buda; Cost:7
+Azuga - Predeal; Cost:7
+Mizil - Sahateni; Cost:7
+Mizil - Inotesti; Cost:7
+Lunca Ilvei - Ilva Mare; Cost:7
+Ilva Mare - Magura Ilvei; Cost:7
+Cociu hc - Beclean pe Somes; Cost:7
+Ciulnita - Ivanesti hc; Cost:7
+Brazi - Prahova; Cost:7
+Rastoci - Letca; Cost:7
+Movileni hc - Potingeni hc; Cost:7
+Mandresti hc - Vorniceni; Cost:7
+Gura Humorului Oras - Frasin; Cost:7
+Simand - Nadab; Cost:7
+Zerind - Tamasda; Cost:7
+Sinandrei - Baile Calacea; Cost:7
+Valea Calugareasca - Ploiesti Est; Cost:7
+Dornesti - Radauti Gara Mica h; Cost:7
+Horodnic hc - Galanesti; Cost:7
+Palas - Valu lui Traian; Cost:7
+Dunarea Hm - Ovidiu; Cost:7
+Dalga Hm - Dor Marunt; Cost:7
+Preasna Hm - Sarulesti; Cost:7
+Radoiesti Hm - Atirnati; Cost:8
+Babeni - Govora; Cost:8
+Buftea - Chitila; Cost:8
+Poiana Ilvei - Lesu Ilvei Hm; Cost:8
+Beclean pe Somes - Sintereag; Cost:8
+Miercurea Ciuc - Siculeni; Cost:8
+Dangeni Nord hc - Ungureni; Cost:8
+Chisineu Cris - Zerind; Cost:8
+Suceava Nord - Darmanesti; Cost:8
+Gherla - Nima hc; Cost:8
+Garbovi - Cotorca; Cost:8
+Golesti - Pitesti; Cost:8
+Vinga - Sag Hm; Cost:8
+Sibiu hc - Ocna Sibiului; Cost:8
+Comlaus hc - Simand; Cost:8
+Clondiru - Sahateni; Cost:8
+Mircea Voda - Saligny Gr. Est; Cost:8
+Bogdana h - Dalga Hm; Cost:8
+Mihail Kogalniceanu - Cataloi; Cost:8
+Braisoru - Huedin; Cost:9
+Ciulnita - Ogoarele hc; Cost:9
+Lehliu - Preasna Hm; Cost:9
+Darza hc - Peris; Cost:9
+Floresti Prahova - Bobolia h; Cost:9
+Cristian - Bartolomeu; Cost:9
+Benesat - Ulmeni Salaj; Cost:9
+Letcani - Movileni hc; Cost:9
+Todireni - Jijia hc; Cost:9
+Zlatunoaia - Trusesti; Cost:9
+Frasin - Vama; Cost:9
+Apa - Seini; Cost:9
+Simeria - Deva; Cost:9
+Madaras Bihor hc - Cefa; Cost:9
+Topile hc - Cristesti Pascani hc; Cost:9
+Babadag - Zebil; Cost:9
+Zebil - Mihail Kogalniceanu; Cost:9
+Cataloi - Tulcea Marfuri; Cost:9
+Predeal - Timisu de Sus Hm; Cost:10
+Medgidia - Mircea Voda; Cost:10
+Fetesti - Baraganu; Cost:10
+Bucuresti Baneasa - Pantelimon; Cost:10
+Fundulea - Islaz; Cost:10
+Miresu Mare hm - Satulung pe Somes; Cost:10
+Iacobeni - Vatra Dornei; Cost:10
+Santana - Zimandu Nou hc; Cost:10
+Ciumeghiu - Salonta; Cost:10
+Odoreu - Mediesu Aurit; Cost:10
+Alba Iulia - Vintu de Jos; Cost:10
+Monor Gledin - Rapa de Jos Hm; Cost:10
+Darmanesti - Milisauti; Cost:10
+Mihai Viteazu - Baia Dobrogea; Cost:10
+Bucuresti Nord - Parc Mogosoaia; Cost:11
+Caracal - Stoenesti; Cost:11
+Huedin - Stana Hm; Cost:11
+Buzau - Baile Sarata Monteoru hc; Cost:11
+Saratel - Bistrita Nord; Cost:11
+Avrig - Podu Olt; Cost:11
+Izvoru Oltului - Izvoru Muresului; Cost:11
+Larga Jijia - Vladeni; Cost:11
+Carasa hc - Dorohoi; Cost:11
+Vatra Dornei Bai h - Floreni; Cost:11
+Augustin - Racos; Cost:11
+Valea Sadului - Lainici; Cost:11
+Turnisor - Cristian Sibiu; Cost:11
+Aciliu hc - Apoldu de Sus; Cost:11
+Cefa - Les Bihor Hm; Cost:11
+Les Bihor Hm - Oradea Vest; Cost:11
+Mirsid - Zalau Nord; Cost:11
+Radomiresti - Draganesti Olt; Cost:12
+Govora - Ramnicu Valcea; Cost:12
+Barbosi - Galati; Cost:12
+Buda - Floresti Prahova; Cost:12
+Vama - Campulung Est; Cost:12
+Satu Mare - Odoreu; Cost:12
+Sibot - Orastie; Cost:12
+Piatra Olt - Bals; Cost:13
+Teius - Aiud; Cost:13
+Urziceni - Garbovi; Cost:13
+Cotorca - Pogoanele; Cost:13
+Bucuresti Nord - Parc Divertisment Chiajna; Cost:14
+Brasov - Codlea; Cost:14
+Faurei - Rusetu; Cost:14
+Iasi - Letcani; Cost:14
+Rupea - Racos; Cost:14
+Satulung pe Somes - Baia Mare; Cost:15
+Veresti - Suceava; Cost:15
+Pojorata - Mestecanis; Cost:15
+Vintu de Jos - Sibot; Cost:15
+Nicolae Balcescu - Targusor Dobrogea; Cost:15
+Videle - Galateni; Cost:16
+Ramnicu Valcea - Calimanesti; Cost:16
+Nicolina - Barnova; Cost:16
+Vaslui - Crasna; Cost:16
+Stolnici - Costesti; Cost:16
+Orsova - Baile Herculane; Cost:17
+Arad - Curtici; Cost:17
+Piatra Olt - Slatina; Cost:17
+Faurei - Ianca; Cost:17
+Siculeni - Izvoru Oltului; Cost:17
+Aiud - Unirea hc; Cost:17
+Razboieni - Campia Turzii; Cost:17
+Orastie - Simeria; Cost:17
+Ceamurlia de Jos Hm - Babadag; Cost:17
+Talmaciu - Sibiu; Cost:18
+Jibou - Benesat; Cost:18
+Marasesti - Tecuci Nord hc; Cost:18
+Dumbraveni - Medias; Cost:18
+Cogealac - Mihai Viteazu; Cost:18
+Balota - Drobeta Turnu Severin; Cost:19
+Braila - Barbosi; Cost:19
+Medgidia - Nicolae Balcescu; Cost:19
+Izvoru Muresului - Gheorgheni; Cost:19
+Petrosani - Lainici; Cost:19
+Filiasi - Turceni; Cost:20
+Focsani - Marasesti; Cost:20
+Blaj - Coslariu; Cost:20
+Pogoanele - Rusetu; Cost:20
+Targu Jiu - Valea Sadului; Cost:20
+Targusor Dobrogea - Cogealac; Cost:20
+Slatina Timis - Caransebes; Cost:21
+Pascani - Dolhasca; Cost:21
+Sacuieni Bihor - Valea lui Mihai; Cost:21
+Sighisoara - Dumbraveni; Cost:21
+Beclean pe Somes - Dej; Cost:22
+Deda - Reghin; Cost:22
+Titu - Gaesti; Cost:22
+Pitesti - Costesti; Cost:22
+Buhaiesti - Vaslui; Cost:23
+Targu Jiu - Rovinari; Cost:23
+Drobeta Turnu Severin - Orsova; Cost:24
+Gradinari - Bucuresti Basarab h; Cost:24
+Baia Mare - Seini; Cost:24
+Deva - Ilia; Cost:24
+Videle - Gradinari; Cost:25
+Fagaras - Ucea; Cost:25
+Marasesti - Adjud; Cost:25
+Dolhasca - Veresti; Cost:25
+Tecuci - Liesti; Cost:25
+Carbunesti - Targu Jiu; Cost:25
+Rosiori Nord - Radomiresti; Cost:26
+Filiasi - Strehaia hc; Cost:26
+Ucea - Avrig; Cost:26
+Buhaiesti - Barnova; Cost:26
+Baile Tusnad Hm - Miercurea Ciuc; Cost:29
+Gaesti - Golesti; Cost:30
+Craiova - Bals; Cost:31
+Pascani - Targu Frumos; Cost:31
+Valea lui Mihai - Carei; Cost:31
+Targu Frumos - Pascani Triaj h; Cost:31
+Brasov - Sfantu Gheorghe; Cost:32
+Lunca Ilvei - Floreni; Cost:32
+Reghin - Targu Mures; Cost:32
+Caracal - Piatra Olt; Cost:33
+Filiasi - Craiova Triaj hc; Cost:33
+Strehaia hc - Balota; Cost:33
+Dragasani - Babeni; Cost:33
+Buzau - Ramnicu Sarat; Cost:33
+Piatra Olt - Dragasani; Cost:34
+Sfantu Gheorghe - Baile Tusnad Hm; Cost:34
+Gheorgheni - Toplita; Cost:34
+Arad - Radna; Cost:35
+Carei - Satu Mare; Cost:36
+Turceni - Rovinari; Cost:36
+Focsani - Tecuci; Cost:37
+Crasna - Barlad; Cost:37
+Ramnicu Sarat - Focsani; Cost:38
+Roman - Pascani Triaj h; Cost:38
+Caransebes - Lugoj; Cost:39
+Buzau - Faurei; Cost:40
+Ilia - Savirsin; Cost:40
+Ianca - Braila; Cost:43
+Slatina - Stolnici; Cost:43
+Toplita - Deda; Cost:44
+Bacau - Roman; Cost:44
+Iasi - Targu Frumos; Cost:45
+Suceava - Gura Humorului Oras; Cost:47
+Barlad - Tecuci Nord hc; Cost:48
+Brasov - Augustin; Cost:49
+Baile Herculane - Slatina Timis; Cost:50

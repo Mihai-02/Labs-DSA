@@ -1,0 +1,6 @@
+Horia 0722222222 manager
+Elena 1234567890 receptioner
+Lucian 0777777777 bucatar
+Pavel 0987654321 mecanic
+Maria 0712345678 paznic
+Emil 6666666666 janitor

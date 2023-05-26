@@ -1,0 +1,10 @@
+Drumul de cost minim de la Bucuresti la Targu Jiu: 316km
+Statii:
+Targu Jiu
+Carbunesti
+Filiasi
+Craiova
+Caracal
+Rosiori Nord
+Videle
+Bucuresti Nord
